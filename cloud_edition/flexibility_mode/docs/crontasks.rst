@@ -111,7 +111,7 @@ Default crontab configuration
 The default crontab at the moment on our Flexibility environments is the following one:
 
 +-----------------------------------------------------+-------------------+--------------------------------------------+
-| Symfony console command                             | Crontab frequency | Description                            |
+| Symfony console command                             | Crontab frequency | Description                                |
 +=====================================================+===================+============================================+
 | pim:versioning:refresh                              | 30 1 \* \* \*     | At 01:30 AM                                |
 +-----------------------------------------------------+-------------------+--------------------------------------------+
